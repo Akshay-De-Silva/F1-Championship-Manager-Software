@@ -3,7 +3,8 @@ This project was a coursework required for the completion of my degree
 
 This software will allows the user to manage a F1 tournamet with various functions available as well as a GUI created using Java Swing.
 
-Major functions include:
+Major functions include: <br />
+
 -Add a driver  <br />
 -Delete a driver  <br />
 -Change the drivers team  <br />
